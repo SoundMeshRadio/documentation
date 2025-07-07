@@ -6,7 +6,7 @@
 This template lets you build a documentation with [Nuxt UI Pro](https://ui.nuxt.com/pro) quickly.
 
 - [Live demo](https://docs-template.nuxt.dev/)
-- [Documentation](https://ui.nuxt.com/getting-started/installation/pro/nuxt)
+- [Documentation](https://ui.nuxt.com#/pro/nuxt)
 
 <a href="https://docs-template.nuxt.dev/" target="_blank">
   <picture>
