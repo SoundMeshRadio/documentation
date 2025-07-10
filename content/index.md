@@ -30,13 +30,13 @@ SoundMesh is a professional audio streaming platform designed for unique experie
   :::u-button
   ---
   color: neutral
-  icon: i-simple-icons-github
+  icon: i-simple-icons-discord
   size: xl
   target: _blank
-  to: https://github.com/soundmesh/soundmesh-sdk
+  to: https://chat.soundmesh.dev
   variant: subtle
   ---
-  View on GitHub
+  Join us on Discord
   :::
 ::
 
@@ -79,7 +79,7 @@ Next-Level Audio for Gaming Communities
   Discord Integration
 
   #description
-  Seamless integration with Discord with more features coming soon!
+  Seamless integration with more features coming soon!
   :::
 
   :::u-page-feature
@@ -91,7 +91,7 @@ Next-Level Audio for Gaming Communities
   Dynamic Interaction
 
   #description
-  Interact with your station by triggering specific events from your server
+  Interact with your station by triggering specific events directly from you server!
   :::
 
   :::u-page-feature
@@ -140,10 +140,9 @@ Next-Level Audio for Gaming Communities
       target: _blank
       icon: i-lucide-play
       color: neutral
-    - label: View Pricing
-      to: https://soundmesh.dev/pricing
-      trailingIcon: i-lucide-credit-card
-      target: _blank
+    - label: Read Documentation
+      to: /getting-started
+      trailingIcon: i-lucide-server
       color: neutral
       variant: subtle
   description: SoundMesh offers a free tier for development and testing. Upgrade to a professional plan for production use with advanced features.
